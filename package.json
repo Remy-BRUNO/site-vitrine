@@ -1,8 +1,8 @@
 {
-  "name": "site-vitrine-2",
+  "name": "site-vitrine",
   "version": "1.0.0",
   "private": true,
-  "description": "site-vitrine-2",
+  "description": "site-vitrine",
   "author": "Reiggnar",
   "keywords": [
     "gatsby"
@@ -16,6 +16,10 @@
   },
   "dependencies": {
     "gatsby": "^5.13.2",
+    "gatsby-plugin-image": "^3.13.1",
+    "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-sharp": "^5.13.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
